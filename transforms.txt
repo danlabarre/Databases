@@ -1,0 +1,2 @@
+1. 2010 years in the family record have some null values
+2. Create the junction table for the household house types
